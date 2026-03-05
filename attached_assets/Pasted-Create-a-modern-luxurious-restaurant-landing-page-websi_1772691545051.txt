@@ -1,0 +1,106 @@
+Create a modern, luxurious restaurant landing page website.
+
+Tech Stack:
+- React (Vite)
+- Tailwind CSS
+- Framer Motion (for animations)
+- React Icons
+- Fully responsive (mobile-first)
+
+Design Style:
+- Luxury, premium, elegant restaurant vibe
+- Dark theme base (black / deep charcoal background)
+- Gold accents (#D4AF37 or similar)
+- Smooth typography (Playfair Display for headings, Inter for body)
+- Cinematic food images with overlays
+- Clean spacing and premium layout
+
+Pages / Sections Required:
+
+1. Hero Section
+- Fullscreen background image or video (restaurant ambience or gourmet dish)
+- Dark overlay
+- Restaurant name (luxury typography)
+- Tagline (e.g., "Fine Dining Experience")
+- Call-to-action buttons:
+  - "Reserve a Table"
+  - "View Menu"
+- Smooth fade-in and slide-up animation on load
+
+2. About Section
+- Elegant 2-column layout
+- Image + description
+- Story of the restaurant
+- Animated reveal on scroll (fade/slide)
+
+3. Signature Menu Section
+- Category tabs (Starters, Main Course, Desserts, Drinks)
+- Menu cards with:
+  - Image
+  - Dish name
+  - Short description
+  - Price
+- Hover animation (scale + shadow glow)
+- Smooth transition between categories
+
+4. Chef Section
+- Circular chef image
+- Short bio
+- Elegant typography
+- Scroll-based animation
+
+5. Gallery Section
+- Grid layout
+- Hover zoom effect
+- Lightbox preview animation
+
+6. Testimonials Section
+- Slider/carousel
+- Smooth sliding animation
+- Star ratings
+- Premium card styling
+
+7. Reservation Section
+- Elegant reservation form:
+  - Name
+  - Email
+  - Phone
+  - Date
+  - Time
+  - Guests
+- Styled luxury input fields
+- Smooth focus animations
+- Button with hover glow
+
+8. Contact & Location
+- Google Maps embed placeholder
+- Address
+- Phone
+- Social media icons with hover animation
+
+9. Footer
+- Logo
+- Quick links
+- Opening hours
+- Copyright
+
+Animations Required:
+- Smooth page transitions
+- Fade-in on scroll (use Framer Motion)
+- Button hover animations
+- Image hover zoom effects
+- Section stagger animation
+- Smooth scrolling behavior
+
+Extra Requirements:
+- Sticky transparent navbar that turns solid on scroll
+- Smooth scrolling navigation
+- Mobile hamburger menu with slide animation
+- Clean reusable components
+- Organized folder structure
+- Use dummy images from Unsplash
+- Use realistic luxury restaurant content
+- No backend required (frontend only)
+- Make the UI look production-ready, not basic.
+
+Make sure the final design feels like a high-end fine dining restaurant website.
