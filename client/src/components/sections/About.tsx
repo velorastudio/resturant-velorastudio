@@ -42,7 +42,7 @@ export function About() {
             </h2>
             
             <p className="text-muted-foreground mb-6 leading-relaxed text-lg">
-              At L'Elegance, we believe that a truly remarkable meal transcends the boundaries of mere sustenance. Founded in 2010, our restaurant has continually pushed the boundaries of modern gastronomy while honoring classical techniques.
+              At VELORA-STUDIO-RETAURANT, we believe that a truly remarkable meal transcends the boundaries of mere sustenance. Founded in 2010, our restaurant has continually pushed the boundaries of modern gastronomy while honoring classical techniques.
             </p>
             
             <p className="text-muted-foreground mb-10 leading-relaxed text-lg">

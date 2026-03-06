@@ -9,10 +9,10 @@ export function Footer() {
         <div className="flex flex-col items-center md:items-start gap-6">
           <a href="#" className="flex items-center gap-2">
             <div className="w-8 h-8 flex items-center justify-center border-2 border-primary rounded-sm">
-              <span className="font-display text-primary font-bold">L</span>
+              <span className="font-display text-primary font-bold">V</span>
             </div>
             <span className="font-display text-2xl text-foreground tracking-widest uppercase">
-              L'ELEGANCE
+              VELORA STUDIO
             </span>
           </a>
           <p className="text-muted-foreground leading-relaxed max-w-sm">
@@ -36,15 +36,15 @@ export function Footer() {
           <h4 className="font-display text-xl text-primary mb-2">Contact Us</h4>
           <div className="flex items-start gap-4 text-muted-foreground">
             <MapPin className="text-primary shrink-0 mt-1" size={18} />
-            <p>123 Luxury Avenue<br />Beverly Hills, CA 90210</p>
+            <p>123 Luxury Avenue<br />ETAH</p>
           </div>
           <div className="flex items-center gap-4 text-muted-foreground">
             <Phone className="text-primary shrink-0" size={18} />
-            <p>+1 (555) 123-4567</p>
+            <p>+91 9999XXXXXX</p>
           </div>
           <div className="flex items-center gap-4 text-muted-foreground">
             <Mail className="text-primary shrink-0" size={18} />
-            <p>reservations@lelegance.com</p>
+            <p>officialvelorastudio@gmail.com</p>
           </div>
         </div>
 
@@ -69,7 +69,7 @@ export function Footer() {
       </div>
 
       <div className="max-w-7xl mx-auto px-6 md:px-12 text-center text-muted-foreground/50 text-sm flex flex-col md:flex-row justify-between items-center gap-4">
-        <p>&copy; {new Date().getFullYear()} L'Elegance Restaurant. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} VELORA STUDIO. All rights reserved.</p>
         <div className="flex gap-6">
           <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>
           <a href="#" className="hover:text-primary transition-colors">Terms of Service</a>

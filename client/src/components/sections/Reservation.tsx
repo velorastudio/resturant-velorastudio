@@ -97,7 +97,7 @@ export function Reservation() {
                 <input 
                   {...register("phone")}
                   className="w-full bg-transparent border-b border-white/20 pb-2 text-white focus:outline-none focus:border-primary transition-colors placeholder:text-white/20"
-                  placeholder="+1 (555) 000-0000"
+                  placeholder="+91 9999XXXXXX"
                 />
                 {errors.phone && <span className="text-destructive text-xs">{errors.phone.message}</span>}
               </div>

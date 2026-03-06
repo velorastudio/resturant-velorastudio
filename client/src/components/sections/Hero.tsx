@@ -45,7 +45,7 @@ export function Hero() {
           transition={{ duration: 1, delay: 0.6, ease: "easeOut" }}
           className="text-lg md:text-xl text-gray-300 font-light mb-12 max-w-2xl mx-auto"
         >
-          Discover culinary artistry where tradition meets innovation in an atmosphere of unparalleled elegance.
+          NOTE: THIS IS A DEMO PROJECT MADE BY VELORA STUDIO. FOR MORE INFORMATION CONTACT: officialvelorastudio@gmail.com
         </motion.p>
 
         <motion.div

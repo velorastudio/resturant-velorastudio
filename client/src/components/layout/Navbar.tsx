@@ -15,6 +15,7 @@ export function Navbar() {
   }, []);
 
   const navLinks = [
+    { name: "Home", href: "#" },
     { name: "About", href: "#about" },
     { name: "Menu", href: "#menu" },
     { name: "Chef", href: "#chef" },
@@ -35,10 +36,10 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex justify-between items-center">
         <a href="#" className="flex items-center gap-2 group">
           <div className="w-8 h-8 flex items-center justify-center border-2 border-primary rounded-sm transform group-hover:rotate-45 transition-transform duration-500">
-            <span className="font-display text-primary font-bold transform group-hover:-rotate-45 transition-transform duration-500">L</span>
+            <span className="font-display text-primary font-bold transform group-hover:-rotate-45 transition-transform duration-500">V</span>
           </div>
           <span className="font-display text-2xl text-foreground tracking-widest uppercase">
-            L'ELEGANCE
+            VELORA STUDIO DEMO
           </span>
         </a>
 
